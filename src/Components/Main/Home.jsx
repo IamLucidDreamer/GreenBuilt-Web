@@ -2,13 +2,13 @@
 
 import React from 'react'
 import { Link } from 'react-router-dom'
-import HeaderLogo from '../../assets/greentransparentbgimage.png'
-import FooterLogo from '../../assets/greenbuiltpurple.png'
-import MobileScreen from '../../assets/mobile.png'
-import Coupon from '../../assets/price.png'
-import Offers from '../../assets/OFF.png'
-import Reward from '../../assets/REWARD.png'
-import Blueprint from '../../assets/bp2.png'
+import HeaderLogo from '../../Assets/greentransparentbgimage.png'
+import FooterLogo from '../../Assets/greenbuiltpurple.png'
+import MobileScreen from '../../Assets/mobile.png'
+import Coupon from '../../Assets/price.png'
+import Offers from '../../Assets/OFF.png'
+import Reward from '../../Assets/REWARD.png'
+import Blueprint from '../../Assets/bp2.png'
 
 const Home = () => {
 	return (

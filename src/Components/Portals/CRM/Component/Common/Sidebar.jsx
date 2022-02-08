@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Logo from '../../../../../assets/GREENBUILT.png'
+import Logo from '../../../../../Assets/GREENBUILT.png'
 
 import { Link } from 'react-router-dom'
 
